@@ -1,0 +1,24 @@
+# Rust build artifacts
+/target/
+
+# Cargo.lock file for libraries
+Cargo.lock
+
+# Rust language server files
+/.rustup/
+.rustup/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Other files
+*.rs.bk
