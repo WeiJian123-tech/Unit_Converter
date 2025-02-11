@@ -6,6 +6,17 @@ A command line unit converter program made with pure Rust.
 >
 > Created as practice for learning about Rust.
 
+## Unit Conversions
+
+You can convert the following units:
+
+* Fahrenheit to Celsius (°F -> °C)
+* Celsius to Fahrenheit (°C -> °F)
+* Pounds to Kilograms (lbs. -> kg.)
+* Kilograms to Pounds (kg. -> lbs.)
+* Inches to Centimeters (in. -> cm.)
+* Centimeters to Inches (cm. -> in.)
+
 ## Executing The Program
 
 Download the repository to your computer.
